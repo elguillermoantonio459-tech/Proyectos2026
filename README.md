@@ -24,12 +24,12 @@
         .logo {
             border: 5px solid black;
             overflow: hidden;
-            width: 50px;
-            height: 50px;
+            width: 150px;
+            height: 150px;
             margin: 0 auto;
         }
         .logo img {
-            width: 50%;
+            width: 100%;
             height: auto;
         }
         .section {
