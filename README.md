@@ -25,12 +25,12 @@
             border-radius: 50%;
             border: 5px solid black;
             overflow: hidden;
-            width: 150px;
-            height: 150px;
+            width: 10px;
+            height: 10px;
             margin: 0 auto;
         }
         .logo img {
-            width: 10%;
+            width: 90%;
             height: auto;
         }
         .section {
